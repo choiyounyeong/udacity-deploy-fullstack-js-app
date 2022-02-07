@@ -3,7 +3,7 @@
 ## Overview
 
 The pipeline process in CircleCI is:
-![alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/pipeline-process.pdf  "CircleCI pipeline")
+[alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/pipeline-process.pdf  "CircleCI pipeline")
 
 ## Configuration of environment variables
 
@@ -13,4 +13,4 @@ Environment variables are added in CircleCI so that AWS EB CLI can run the code.
 * AWS_DEFAULT_REGION
 * etc.
 
-![alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/ciecleCI-env.png "CircleCI environment variables")
+[alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/ciecleCI-env.png "CircleCI environment variables")
