@@ -3,7 +3,7 @@
 ## Overview
 
 The pipeline process in CircleCI is:
-[alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/pipeline-process.pdf  "CircleCI pipeline")
+[alt text](https://github.com/choiyounyeong/udacity-deploy-fullstack-js-app/blob/master/docs/pipeline-process.png "CircleCI pipeline")
 
 ## Configuration of environment variables
 
