@@ -30,7 +30,7 @@ The status of the last build:
 
 
 ## Access Front-End application
-Click [this link](http://udacity-deployment.s3-website-us-east-1.amazonaws.com/home) for accessing the hosted working Front-End Application.
+Click [this link](http://udacity-deployment.s3-website-us-east-1.amazonaws.com) for accessing the hosted working Front-End Application.
 
 
 ## Others
